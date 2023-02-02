@@ -1,13 +1,7 @@
-.DS_Store
-.asset-downloads
-.bundle
-.jekyll-metadata
-.ruby-version
-.sass-cache/
-/vendor
-_site/
-bin
-css/main.scss
-test/node_modules
-test/package-lock.json
-Gemfile.lock
+#  .asset-downloads
+#  .jekyll-metadata
+#  .sass-cache/
+#  _site/
+#  css/main.scss
+#  test/package-lock.json
+#  
