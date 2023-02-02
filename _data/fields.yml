@@ -1,34 +1,19 @@
 # Each piece of content has YAML front matter with these properties:
-
-lang:
-  type: String
-
-layout:
-  type: String
-
-title:
-  type: String
-  required: true
-
-contents:
+# lang:
+# 
+# type: String
+# title:
+# required: true
+# contents:
   type: Array
-
-description:
-  type: String
-
-class:
-  type: String
-
-order:
-  type: Integer
-
-image: {}
-
-related:
-  type: Array
-
-untranslated:
-  type: TrueClass
-
-redirect_from:
-  type: String
+# description:
+# 
+# type: String
+# order:
+# 
+# 
+# type: Array
+# untranslated:
+# 
+#   type: String
+# 
